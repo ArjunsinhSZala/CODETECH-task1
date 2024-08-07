@@ -1,8 +1,13 @@
 Name: ARJUNSINH S ZALA
+
 Company: CODETECH IT SOLUTIONS
+
 ID: CT4PP4623
+
 Domain: Python Programming
+
 Mentor: Muzammil
+
 Duration: 10 July 2024 to 10 AUG 2024
 
 Overview of the Project:
