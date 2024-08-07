@@ -16,7 +16,11 @@ The purpose of this project is a simple calculator capable of taking input of tw
 
 Features:
 Add
+
 Subtract
+
 Multiply
+
 Divide
+
 Technology: Python Programming
